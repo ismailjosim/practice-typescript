@@ -26,7 +26,7 @@ console.log(newArray)
 const person: {
 	name: string
 	balance: number
-	addBalance(money: number): void
+	addBalance(money: number): void // if we can't return anything.
 } = {
 	name: 'ismail',
 	balance: 2000,
