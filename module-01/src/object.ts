@@ -34,7 +34,7 @@ const userInfo: {
 
 //if we don’t want to change any properties from object we can use readonly method:
 const secondUser: {
-	readonly name: 'Programming Hero' // readonly value
+	readonly name: 'Programming Hero' // readonly value we can't change the property
 	age: number
 	isMarried: boolean
 	isWorking: boolean
