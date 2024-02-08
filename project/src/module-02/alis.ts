@@ -4,10 +4,10 @@ const crash1: {
 	profession: string
 	address: string
 } = {
-	name: 'pakhi',
+	name: 'Person',
 	age: 22,
 	profession: 'web developer',
-	address: 'bangladesh',
+	address: 'USA',
 }
 const crash2: {
 	name: string
@@ -15,10 +15,10 @@ const crash2: {
 	profession: string
 	address: string
 } = {
-	name: 'pori',
+	name: 'ISMAIL',
 	age: 22,
 	profession: 'web developer',
-	address: 'bangladesh',
+	address: 'Bangladesh',
 }
 // to avoid this type of type declaration we use type alis. for that we use  a type then specify all the properties name there.
 
